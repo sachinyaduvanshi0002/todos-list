@@ -1,3 +1,27 @@
+body {
+  background: #f5f7fa;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+h3 {
+  font-weight: 600;
+}
+textarea {
+  resize: none;
+}
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+body {
+  background: #f5f7fa;
+}
+
 .App {
   text-align: center;
 }
